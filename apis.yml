@@ -1,7 +1,19 @@
 aid: ataraxis
 name: Ataraxis
-description: Ataraxis is a company surfaced as a portfolio company of obvious-ventures and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Ataraxis AI is a precision-medicine company building clinical AI foundation
+  models that make disease predictable, beginning with oncology. Founded in 2022
+  by Jan Witowski, MD, PhD, and Krzysztof Geras, PhD (both formerly of NYU),
+  Ataraxis trains multi-modal AI on hundreds of millions of pathology images to
+  assess disease aggressiveness and predict cancer recurrence, treatment
+  response, and survival. Its first product, Ataraxis Breast, is an AI-native,
+  clinically validated prognostic and predictive test suite for breast cancer
+  (Recurrence Risk, Chemotherapy Benefit, and Neoadjuvant Response) delivering
+  same-day results without exhausting physical tissue. The company is backed by
+  Obvious Ventures, AIX Ventures, and Giant Ventures, and advised by Turing
+  Award winner Yann LeCun. Ataraxis operates a clinician portal rather than a
+  public developer API; this profile captures its public identity, legal, and
+  security surface for the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/ataraxis/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +21,30 @@ x-backed-by:
 - obvious-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/66f22558f0bee9421463707b/66f22558f0bee94214637099_ataraxis-logo-black.svg
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Healthcare
+- Artificial Intelligence
+- Precision Medicine
+- Oncology
+- Cancer Diagnostics
+- Machine Learning
+- Digital Pathology
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +52,26 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/ataraxis-domain-security.yml
 - type: Website
   url: https://ataraxis.ai
+- type: Login
+  url: https://portal.ataraxis.ai/
+- type: PrivacyPolicy
+  url: https://www.ataraxis.ai/privacy-policy
+- type: TermsOfService
+  url: https://www.ataraxis.ai/terms-conditions
+- type: Blog
+  url: https://www.ataraxis.ai/news-resources
+- type: Support
+  url: https://www.ataraxis.ai/contact-us
+- type: GitHubOrganization
+  url: https://github.com/ataraxis-ai
+- type: LLMsTxt
+  url: llms/ataraxis-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

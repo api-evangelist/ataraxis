@@ -1,0 +1,27 @@
+# Ataraxis AI
+
+> Ataraxis AI is a precision-medicine company building clinical AI foundation models that make disease predictable, beginning with oncology. Its first product, Ataraxis Breast, is an AI-native, clinically validated prognostic and predictive test suite for breast cancer (Recurrence Risk, Chemotherapy Benefit, and Neoadjuvant Response). Ataraxis operates a clinician portal rather than a public developer API; there is no published OpenAPI, SDK, or developer documentation surface at this time.
+
+## Company
+- [Website](https://ataraxis.ai): Ataraxis AI home
+- [About](https://www.ataraxis.ai/about-us): Company, team, and mission
+- [Research](https://www.ataraxis.ai/research): Causality, representation learning, and survival-analysis research
+- [Evidence](https://www.ataraxis.ai/evidence): Clinical validation and publications
+- [News & Resources](https://www.ataraxis.ai/news-resources): Announcements and press
+
+## Products
+- [Ataraxis Breast Overview](https://www.ataraxis.ai/ataraxis-breast-overview): AI-native breast-cancer test platform
+- [Recurrence Risk](https://www.ataraxis.ai/ataraxis-breast-risk): Recurrence-risk assessment
+- [Chemotherapy Benefit](https://www.ataraxis.ai/ataraxis-breast-ctx): Chemotherapy-benefit prediction
+- [Neoadjuvant Response](https://www.ataraxis.ai/ataraxis-breast-neo): Neoadjuvant-response prediction
+
+## Access
+- [Clinician Portal](https://portal.ataraxis.ai/): Clinician sign-in (no public developer API)
+- [Contact](https://www.ataraxis.ai/contact-us): Contact and support
+
+## Code
+- [GitHub Organization](https://github.com/ataraxis-ai): Public repositories (research tooling; no API/SDK)
+
+## Legal
+- [Privacy Policy](https://www.ataraxis.ai/privacy-policy)
+- [Terms & Conditions](https://www.ataraxis.ai/terms-conditions)
