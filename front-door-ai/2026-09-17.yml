@@ -1,0 +1,29 @@
+# Front Door AI Index — ataraxis — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: ataraxis
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: ataraxis.ai
+  final_host: www.ataraxis.ai
+  ownership: own
+  owner: ataraxis
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 21
+  host_score: 21
+  density: 40.31
+  words: 521
+  tiers:
+    agentic: 0
+    core: 21
+    model: 0
+  ambiguous: 3
+  top_terms:
+    AI: 18
+    artificial intelligence: 2
+    intelligence: 2
+    foundation model: 1
+    predictive: 1
