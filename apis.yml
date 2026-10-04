@@ -54,7 +54,7 @@ tags:
 - Precision Medicine
 - Oncology
 - Cancer Diagnostics
-- Machine-Learning
+- Machine Learning
 - Digital Pathology
 tags_raw:
 - Company
@@ -65,6 +65,7 @@ tags_raw:
 - Cancer Diagnostics
 - Machine Learning
 - Digital Pathology
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
